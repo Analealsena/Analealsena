@@ -80,7 +80,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Analealsena&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
