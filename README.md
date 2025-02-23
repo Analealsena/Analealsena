@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá(UNESA),tenho 20 anos e sou natural do Rio de Janeiro, concluí o ensino médio técnico em telecomunicações na FAETEC. Atualmente estou fazendo um curso de desenvolvedor Front-end pela DNC, tenho interesse em me desenvolver em programação e estou buscando oportunidades de estágio e freelancer onde posso mostrar meus conhecimentos e ajudar no desenvolvimento de trabalhos incríveis.
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá(UNESA), tenho 20 anos e sou natural do Rio de Janeiro, concluí o ensino médio técnico em telecomunicações na FAETEC. Atualmente estou fazendo um curso de desenvolvedor Front-end pela DNC, tenho interesse em me desenvolver em programação e estou atuando como jovem aprendiz na Porto Seguro, na área de engenharia de dados, onde posso mostrar meus conhecimentos e ajudar no desenvolvimento de trabalhos incríveis.
 ### 🤖 Linguagens e Tecnologias
 
 <img 
